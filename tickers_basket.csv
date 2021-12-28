@@ -1,0 +1,5 @@
+Symbol,SecurityType,Currency,Expiry,OptionType,Strike,Exchange,Status
+RELIANCE,STK,INR,,,,NSE,A
+SBIN,STK,INR,,,,NSE,A
+ITC,STK,INR,,,,NSE,A
+HDFC,STK,INR,,,,NSE,A
